@@ -1,0 +1,68 @@
+body{
+	background-color: whitesmoke;
+	font-family: century gothic;
+
+}
+
+h1{
+	background-color: orange;
+	text-align: center;
+	font-size: 50px;
+}
+
+a{
+	color: slategray;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+	font-size: 25px;
+
+}
+
+a:hover{
+	color: orangered;
+	
+}
+
+.ok{
+	text-align: right;
+	padding-right: 40px;
+}
+
+.saitama{
+	text-align: center;
+}
+
+.saitama a{
+	text-align: center;
+	font-size: 18px;
+
+}
+
+button{
+
+	height: 50px;
+	width: 100px;
+	background-color: black;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+
+button:hover{
+	transform: scale(0.8);
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+button a{
+
+	height: 50px;
+	width: 120px;
+	background-color: black;
+	border-radius: 10px;
+	color: white;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: century gothic;
+
+}
